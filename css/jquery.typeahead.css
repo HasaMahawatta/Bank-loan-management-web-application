@@ -1,0 +1,204 @@
+.s-main,.tt-dataset-countries,.tt-suggestions,.tt-suggestion
+
+{
+
+	float:left;
+
+	width:100%;
+
+	
+
+}
+
+
+
+.s-logo
+
+{
+
+	float:left;
+
+	width:50px;
+
+}
+
+.s-logo img
+
+{
+
+	float:left;
+
+	width:100%;
+
+}
+
+.s-text
+
+{
+
+	float:left;
+
+	text-align:left;
+
+	margin-left:20px;
+
+	font-size:12px;
+	max-width:270px;
+
+}
+
+.s-text h4
+
+{
+
+	color:#337AB7;
+
+  font-size:12px !important;
+
+  font-weight:bold;
+
+  margin:0px !important;
+
+  margin-bottom:5px !important;
+
+}
+
+.s-text-sub
+
+{
+
+	float:left;
+
+	width:100%;
+
+	color:#999999;
+
+}
+
+.tt-suggestion
+
+{
+
+	border-bottom:1px solid #F0F0F0 !important;
+
+	padding:10px;
+
+}
+
+
+
+.tt-hint
+
+{
+
+	color:#CCC;
+
+}
+
+.tt-dropdown-menu
+
+{
+
+	max-height:400px;
+
+	overflow-y:scroll;
+border-radius:0px;
+padding:0;
+margin-top: 0px; 
+	width:100%;
+
+}
+
+.tt-query
+
+{
+
+-webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075); 
+
+ border:none;
+
+ box-shadow: rgba(0, 0, 0, 0.0470588) 0 1px 2px;
+
+
+
+}
+
+.twitter-typeahead .tt-hint
+
+{
+
+	border-radius: 0px 4px 4px 0px !important;
+
+	min-height:100%;
+
+}
+
+.s-info
+
+{
+
+	float:left;
+
+    font-size:14px;
+
+	background-color:#FFF !important;
+
+  border:1px solid #CCCCCC !important;
+
+  padding:9px;
+
+  border-right:none !important;
+
+  	border-radius: 4px 0px 0px 4px !important;
+
+	width:100%;
+
+	height:100% !important;
+
+	 box-shadow: rgba(0, 0, 0, 0.0470588) 0 1px 2px;
+
+	 color:#333;
+
+	
+
+}
+
+.s-info-td
+
+{
+
+	padding:0px !important;
+
+	width:30px !important;
+
+
+
+}
+
+.span.twitter-typeahead
+
+{
+
+	width:100%;
+
+	height:100%;
+
+	float:left;
+
+}
+
+.s-full
+
+{
+
+		padding:0px !important;
+
+}
+
+.tt-suggestion.tt-is-under-cursor h4,.tt-suggestion.tt-is-under-cursor .s-text-sub
+
+{
+
+	color:#FFF !important;
+
+}

@@ -1,0 +1,303 @@
+[05-Feb-2015 04:37:04 UTC] PHP Notice:  Trying to get property of non-object in /home/hitroot/public_html/protected/modules/user/components/WebUser.php on line 40
+[05-Feb-2015 04:37:04 UTC] PHP Notice:  Trying to get property of non-object in /home/hitroot/public_html/protected/modules/user/components/WebUser.php on line 41
+[05-Feb-2015 04:37:04 UTC] PHP Notice:  Trying to get property of non-object in /home/hitroot/public_html/protected/modules/user/components/WebUser.php on line 42
+[05-Feb-2015 04:37:04 UTC] PHP Notice:  Trying to get property of non-object in /home/hitroot/public_html/protected/modules/user/components/WebUser.php on line 43
+[05-Feb-2015 04:43:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1217) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 04:47:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1217) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 04:48:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 04:51:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 04:52:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1218) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 04:53:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1218) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 04:54:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1216) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:00:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:04:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:05:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:06:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:07:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:08:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:08:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:10:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:15:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/models/MainMenus.php:1199) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:34:58 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/hitroot/public_html/mail/class.phpmailer.php on line 594
+[05-Feb-2015 05:34:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/mail/class.phpmailer.php:594) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:35:16 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/hitroot/public_html/mail/class.phpmailer.php on line 594
+[05-Feb-2015 05:35:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/mail/class.phpmailer.php:594) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:36:35 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/hitroot/public_html/mail/class.phpmailer.php on line 594
+[05-Feb-2015 05:36:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/mail/class.phpmailer.php:594) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[05-Feb-2015 05:53:38 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/hitroot/public_html/mail/class.phpmailer.php on line 594
+[05-Feb-2015 05:53:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/mail/class.phpmailer.php:594) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[07-Feb-2015 10:25:46 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/hitroot/public_html/mail/class.phpmailer.php on line 594
+[07-Feb-2015 10:25:46 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/hitroot/public_html/framework/web/CHttpSession.php on line 166
+[07-Feb-2015 10:25:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/mail/class.phpmailer.php:594) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 983
+[07-Feb-2015 10:25:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/mail/class.phpmailer.php:594) in /home/hitroot/public_html/framework/web/CHttpRequest.php on line 657
+[07-Feb-2015 11:20:50 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:20:50 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:20:52 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:20:52 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:20:58 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:20:58 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:21:01 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:21:01 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:21:15 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:21:15 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:21:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2657
+[07-Feb-2015 11:21:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2658
+[07-Feb-2015 11:21:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2664
+[07-Feb-2015 11:21:25 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:21:25 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:21:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2657
+[07-Feb-2015 11:21:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2658
+[07-Feb-2015 11:21:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2664
+[07-Feb-2015 11:21:40 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:21:40 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:21:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2657
+[07-Feb-2015 11:21:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2658
+[07-Feb-2015 11:21:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2664
+[07-Feb-2015 11:22:10 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:22:10 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2657
+[07-Feb-2015 11:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2658
+[07-Feb-2015 11:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2664
+[07-Feb-2015 11:22:59 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:22:59 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:23:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2657
+[07-Feb-2015 11:23:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2658
+[07-Feb-2015 11:23:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2664
+[07-Feb-2015 11:25:58 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:25:58 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:25:58 UTC] PHP Catchable fatal error:  Argument 1 passed to CezTableImage::CezTableImage() must be an instance of O_Base, string given, called in /home/hitroot/public_html/protected/models/MainMenus.php on line 1768 and defined in /home/hitroot/public_html/protected/class/CezTableImage.php on line 42
+[07-Feb-2015 11:26:19 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:26:19 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:26:19 UTC] PHP Catchable fatal error:  Argument 1 passed to CezTableImage::CezTableImage() must be an instance of O_Base, string given, called in /home/hitroot/public_html/protected/models/MainMenus.php on line 1768 and defined in /home/hitroot/public_html/protected/class/CezTableImage.php on line 42
+[07-Feb-2015 11:26:22 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:26:22 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:26:22 UTC] PHP Catchable fatal error:  Argument 1 passed to CezTableImage::CezTableImage() must be an instance of O_Base, string given, called in /home/hitroot/public_html/protected/models/MainMenus.php on line 1768 and defined in /home/hitroot/public_html/protected/class/CezTableImage.php on line 42
+[07-Feb-2015 11:27:35 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:27:35 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:27:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2657
+[07-Feb-2015 11:27:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2658
+[07-Feb-2015 11:27:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2664
+[07-Feb-2015 11:29:52 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:29:52 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2657
+[07-Feb-2015 11:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2658
+[07-Feb-2015 11:29:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2664
+[07-Feb-2015 11:34:26 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:34:26 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:34:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2657
+[07-Feb-2015 11:34:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2658
+[07-Feb-2015 11:34:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2664
+[07-Feb-2015 11:35:25 UTC] PHP Strict Standards:  Declaration of CezTableImage::ezTable() should be compatible with Cezpdf::ezTable(&$data, $cols = '', $title = '', $options = '') in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:35:25 UTC] PHP Strict Standards:  Declaration of CezTableImage::addImage() should be compatible with Cpdf::addImage(&$img, $x, $y, $w = 0, $h = 0, $quality = 75) in /home/hitroot/public_html/protected/class/CezTableImage.php on line 37
+[07-Feb-2015 11:35:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2657
+[07-Feb-2015 11:35:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2658
+[07-Feb-2015 11:35:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitroot/public_html/protected/class/CezTableImage.php:37) in /home/hitroot/public_html/protected/class/Cpdf.php on line 2664
+[11-Feb-2015 09:50:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 09:50:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 09:50:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 09:50:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 09:50:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 09:50:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 09:50:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 09:52:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 09:52:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 09:52:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 09:53:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:53:43 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:53:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:54:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:54:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:54:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:54:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:54:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:55:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:56:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:56:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:56:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:57:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:57:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:57:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:58:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:58:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:58:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:58:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:59:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:59:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:59:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:59:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:59:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:59:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 09:59:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 10:00:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 10:00:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 10:00:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 10:00:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 10:06:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 10:06:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 89
+[11-Feb-2015 10:06:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 86
+[11-Feb-2015 10:06:51 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 86
+[11-Feb-2015 10:07:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 86
+[11-Feb-2015 10:07:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 86
+[11-Feb-2015 10:07:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 86
+[11-Feb-2015 10:07:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 10:07:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 88
+[11-Feb-2015 10:14:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:14:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:14:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:16:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:16:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:16:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:16:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:16:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:17:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:18:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:18:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:18:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:18:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:19:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:20:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:20:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:20:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:21:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:21:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:21:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:21:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:22:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:23:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 85
+[11-Feb-2015 10:23:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 82
+[11-Feb-2015 10:23:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 82
+[11-Feb-2015 10:23:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 82
+[11-Feb-2015 10:23:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 82
+[11-Feb-2015 10:23:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/hitroot/public_html/protected/controllers/ProviderProfileController.php on line 82
+[17-Feb-2015 09:02:29 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/modules/user/UserModule.php on line 120
+[17-Feb-2015 09:02:52 UTC] PHP Fatal error:  Class 'User' not found in /home/hitroot/public_html/protected/modules/user/UserModule.php on line 239
+[24-Feb-2015 11:37:11 UTC] PHP Fatal error:  Call to undefined method MainMenus::question() in /home/hitroot/public_html/protected/views/providerProfile/home.php on line 64
+[24-Feb-2015 16:01:29 UTC] PHP Notice:  Undefined property: Facebook::$picture in /home/hitroot/public_html/testFb.php on line 23
+[24-Feb-2015 16:01:56 UTC] PHP Notice:  Undefined property: Facebook::$picture in /home/hitroot/public_html/testFb.php on line 23
+[24-Feb-2015 16:03:27 UTC] PHP Notice:  Undefined property: Facebook::$picture in /home/hitroot/public_html/testFb.php on line 23
+[25-Feb-2015 06:28:18 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/hitroot/public_html/protected/extensions/maskedInput/MaskedInput.php on line 149
+[25-Feb-2015 06:56:49 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/hitroot/public_html/protected/extensions/maskedInput/MaskedInput.php on line 149
+[25-Feb-2015 06:58:37 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/hitroot/public_html/protected/extensions/maskedInput/MaskedInput.php on line 149
+[25-Feb-2015 07:00:27 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/hitroot/public_html/protected/extensions/maskedInput/MaskedInput.php on line 149
+[25-Feb-2015 07:02:32 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/hitroot/public_html/protected/extensions/maskedInput/MaskedInput.php on line 149
+[25-Feb-2015 07:04:48 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/hitroot/public_html/protected/extensions/maskedInput/MaskedInput.php on line 149
+[25-Feb-2015 08:39:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/update.php on line 36
+[25-Feb-2015 08:40:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/update.php on line 36
+[25-Feb-2015 08:41:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/update.php on line 36
+[25-Feb-2015 08:41:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/update.php on line 36
+[25-Feb-2015 08:42:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/update.php on line 37
+[25-Feb-2015 08:42:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/update.php on line 37
+[25-Feb-2015 08:43:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/update.php on line 37
+[25-Feb-2015 08:44:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/update.php on line 37
+[25-Feb-2015 09:34:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/_form17.php on line 59
+[25-Feb-2015 09:36:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/_form17.php on line 59
+[26-Feb-2015 05:26:29 UTC] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/hitroot/public_html/protected/controllers/ScheduleController.php on line 213
+[26-Feb-2015 05:27:00 UTC] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/hitroot/public_html/protected/controllers/ScheduleController.php on line 213
+[26-Feb-2015 05:28:20 UTC] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/hitroot/public_html/protected/controllers/ScheduleController.php on line 213
+[26-Feb-2015 05:28:27 UTC] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/hitroot/public_html/protected/controllers/ScheduleController.php on line 213
+[26-Feb-2015 05:32:16 UTC] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/hitroot/public_html/protected/controllers/ScheduleController.php on line 213
+[26-Feb-2015 05:33:13 UTC] PHP Fatal error:  Call to a member function saveAs() on a non-object in /home/hitroot/public_html/protected/controllers/ScheduleController.php on line 214
+[26-Feb-2015 08:38:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:39:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:39:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:39:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:39:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:40:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:40:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:40:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:40:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:41:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:41:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:41:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[26-Feb-2015 08:41:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/schedule/create.php on line 47
+[28-Feb-2015 03:34:14 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/booking/index.php on line 319
+[28-Feb-2015 03:34:17 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/booking/index.php on line 319
+[28-Feb-2015 03:35:02 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/booking/index.php on line 320
+[28-Feb-2015 03:35:21 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/booking/index.php on line 320
+[28-Feb-2015 03:35:25 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/booking/index.php on line 320
+[28-Feb-2015 03:35:35 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/booking/index.php on line 320
+[28-Feb-2015 05:05:48 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/layouts/main.php on line 500
+[28-Feb-2015 05:05:50 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/layouts/main.php on line 500
+[28-Feb-2015 05:05:52 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/layouts/main.php on line 500
+[28-Feb-2015 05:05:54 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/layouts/main.php on line 500
+[28-Feb-2015 05:06:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/layouts/main.php on line 203
+[28-Feb-2015 05:06:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/layouts/main.php on line 203
+[28-Feb-2015 05:06:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/layouts/main.php on line 203
+[28-Feb-2015 05:06:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/layouts/main.php on line 203
+[28-Feb-2015 05:06:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/layouts/main.php on line 203
+[28-Feb-2015 05:06:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hitroot/public_html/protected/views/layouts/main.php on line 203
+[28-Feb-2015 06:43:29 UTC] PHP Fatal error:  Class 'RegistrationForm' not found in /home/hitroot/public_html/protected/modules/user/controllers/RegistrationController.php on line 25
+[28-Feb-2015 06:43:31 UTC] PHP Fatal error:  Class 'RegistrationForm' not found in /home/hitroot/public_html/protected/modules/user/controllers/RegistrationController.php on line 25
+[28-Feb-2015 06:43:35 UTC] PHP Fatal error:  Class 'RegistrationForm' not found in /home/hitroot/public_html/protected/modules/user/controllers/RegistrationController.php on line 25
+[28-Feb-2015 06:43:39 UTC] PHP Fatal error:  Class 'RegistrationForm' not found in /home/hitroot/public_html/protected/modules/user/controllers/RegistrationController.php on line 25
+[28-Feb-2015 09:40:15 UTC] PHP Fatal error:  Cannot redeclare class PHPMailer in /home/hitroot/public_html/mail/class.phpmailer.php on line 37
+[28-Feb-2015 09:41:00 UTC] PHP Fatal error:  Cannot redeclare class PHPMailer in /home/hitroot/public_html/mail/class.phpmailer.php on line 37
+[28-Feb-2015 09:42:20 UTC] PHP Fatal error:  Cannot redeclare class PHPMailer in /home/hitroot/public_html/mail/class.phpmailer.php on line 37
+[28-Feb-2015 09:43:56 UTC] PHP Fatal error:  Cannot redeclare class PHPMailer in /home/hitroot/public_html/mail/class.phpmailer.php on line 37
+[28-Feb-2015 09:58:41 UTC] PHP Fatal error:  Cannot redeclare class PHPMailer in /home/hitroot/public_html/mail/class.phpmailer.php on line 37
+[28-Feb-2015 10:00:45 UTC] PHP Fatal error:  Cannot redeclare class PHPMailer in /home/hitroot/public_html/mail/class.phpmailer.php on line 37
+[28-Feb-2015 10:05:13 UTC] PHP Fatal error:  Cannot redeclare class PHPMailer in /home/hitroot/public_html/mail/class.phpmailer.php on line 37
+[28-Feb-2015 10:08:11 UTC] PHP Fatal error:  Cannot redeclare class PHPMailer in /home/hitroot/public_html/mail/class.phpmailer.php on line 37
+[28-Feb-2015 10:14:06 UTC] PHP Fatal error:  Cannot redeclare class PHPMailer in /home/hitroot/public_html/mail/class.phpmailer.php on line 37
+[05-Mar-2015 07:13:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hitroot/public_html/protected/views/booking/index.php on line 115
+[05-Mar-2015 12:39:15 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:39:27 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:39:56 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:39:59 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:40:29 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:40:39 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:40:44 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:40:49 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:41:08 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:41:43 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:41:44 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:42:42 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:42:51 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:42:57 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:44:47 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:44:51 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:44:52 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:44:53 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:44:54 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:46:25 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:46:38 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:47:22 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:47:56 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:48:19 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:48:59 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:50:27 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:50:45 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:53:52 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 12:57:41 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 13:00:30 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 13:00:38 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[05-Mar-2015 13:00:46 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/hitroot/public_html/protected/models/MainMenus.php on line 324
+[06-Mar-2015 08:41:57 UTC] PHP Fatal error:  Call to undefined method MainMenus::Forum() in /home/hitroot/public_html/protected/views/booking/index.php on line 65
+[06-Mar-2015 08:41:58 UTC] PHP Fatal error:  Call to undefined method MainMenus::Forum() in /home/hitroot/public_html/protected/views/booking/index.php on line 65
+[06-Mar-2015 08:41:59 UTC] PHP Fatal error:  Call to undefined method MainMenus::Forum() in /home/hitroot/public_html/protected/views/booking/index.php on line 65
+[06-Mar-2015 08:42:00 UTC] PHP Fatal error:  Call to undefined method MainMenus::Forum() in /home/hitroot/public_html/protected/views/booking/index.php on line 65
+[06-Mar-2015 14:46:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/hitroot/public_html/protected/models/Forum.php on line 48
+[07-Mar-2015 13:36:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/hitroot/public_html/protected/models/Dashboard.php on line 755
+[12-Mar-2015 12:34:53 Asia/colombo] PHP Notice:  Trying to get property of non-object in /home/hitroot/public_html/protected/views/layouts/main.php on line 568
+[12-Mar-2015 12:34:53 Asia/colombo] PHP Notice:  Trying to get property of non-object in /home/hitroot/public_html/protected/models/MainMenus.php on line 2452
+[12-Mar-2015 12:34:53 Asia/colombo] PHP Notice:  Undefined offset: 0 in /home/hitroot/public_html/protected/models/MainMenus.php on line 2456
+[12-Mar-2015 12:34:53 Asia/colombo] PHP Notice:  Trying to get property of non-object in /home/hitroot/public_html/protected/views/layouts/main.php on line 571
+[12-Mar-2015 12:46:34 Asia/colombo] PHP Notice:  Use of undefined constant ll - assumed 'll' in /home/hitroot/public_html/protected/views/layouts/main.php on line 571
+[12-Mar-2015 12:47:04 Asia/colombo] PHP Notice:  Use of undefined constant kk - assumed 'kk' in /home/hitroot/public_html/protected/views/layouts/main.php on line 573
+[12-Mar-2015 12:47:16 Asia/colombo] PHP Notice:  Use of undefined constant kk - assumed 'kk' in /home/hitroot/public_html/protected/views/layouts/main.php on line 573
+[12-Mar-2015 12:47:26 Asia/colombo] PHP Notice:  Use of undefined constant kk - assumed 'kk' in /home/hitroot/public_html/protected/views/layouts/main.php on line 578
+[17-Mar-2015 09:41:22 UTC] PHP Parse error:  syntax error, unexpected $end in /home/hitroot/public_html/protected/views/layouts/main.php on line 77
+[17-Mar-2015 09:41:23 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/hitroot/public_html/protected/views/layouts/main.php on line 394
+[31-Mar-2015 10:03:19 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/hitroot/public_html/protected/views/booking/create.php on line 112
+[10-Apr-2015 04:22:21 UTC] PHP Warning:  require_once(/home/hitroot/public_html/framework/yii.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:21 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/hitroot/public_html/framework/yii.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:22 UTC] PHP Warning:  require_once(/home/hitroot/public_html/framework/yii.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:22 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/hitroot/public_html/framework/yii.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:24 UTC] PHP Warning:  require_once(/home/hitroot/public_html/framework/yii.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:24 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/hitroot/public_html/framework/yii.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:24 UTC] PHP Warning:  require_once(/home/hitroot/public_html/framework/yii.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:24 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/hitroot/public_html/framework/yii.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:38 UTC] PHP Warning:  require_once(/home/hitroot/public_html/framework/yii.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:38 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/hitroot/public_html/framework/yii.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:38 UTC] PHP Warning:  require_once(/home/hitroot/public_html/framework/yii.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/hitroot/public_html/index.php on line 13
+[10-Apr-2015 04:22:38 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/hitroot/public_html/framework/yii.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/hitroot/public_html/index.php on line 13

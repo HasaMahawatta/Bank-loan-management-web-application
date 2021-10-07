@@ -1,0 +1,114 @@
+#guider_overlay 
+
+{
+
+	z-index:9999;
+
+}
+
+#gud1
+
+{
+
+	top:10% !important;
+
+	width: 0px !important;
+
+	
+
+}
+
+#gud1.guider_button
+
+{
+
+	display:none !important;
+
+}
+
+
+
+
+
+#gud1.guider {
+
+  -webkit-box-shadow:#111111 0 0 0px  !important;
+
+  background:#FFFFFF;
+
+  border:0px solid #666666 !important;
+
+  border-radius:4px;
+
+  box-shadow:#111111 0 0 0px !important;
+
+  font-family:arial;
+
+  outline:none;
+
+  padding:0px 0px;
+
+  position:absolute;
+
+  width:0px;
+
+  z-index:100000005 !important;
+
+}
+.guider
+{
+	width:auto !important;
+}
+
+
+.guider_content
+
+{
+
+
+
+}
+
+.btn-tour
+
+{
+
+	/*background-color:#333;*/
+
+	color:#FFF;
+font-weight:bold;
+  text-shadow:rgba(0, 0, 0, 0.2) 0 1px 1px;
+  font-size:12px;
+	/*border-color:#000;*/
+	padding-right:0px !important;
+
+}
+
+.btn-tour:hover
+
+{
+
+		color:#FFCC00 !important;
+
+}
+
+.guid td img
+
+{
+
+	width:50px;
+
+}
+
+.guid td
+
+{
+
+	padding:10px;
+
+	
+
+	font-size:12px;
+
+}
+

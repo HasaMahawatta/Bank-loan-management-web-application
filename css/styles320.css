@@ -1,0 +1,79 @@
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 680px) {
+
+.right_col_main
+{
+	display:none;
+}
+.list_menu
+{
+display:none;	
+}
+.middle_right
+{
+	display:none;
+}
+.content_w
+{
+	min-width:0px;
+}
+.mid_coll
+{
+margin-left:0px;
+width:100%;
+min-width:0px;
+}
+.login-info
+{
+	display:none;
+}
+.login-sub
+{
+	float:left;
+ margin-right:0px;
+ margin-top:0px; 
+ width:100%;
+ border-radius:0px;
+
+}
+
+.mainhome_name,.mainhome_name_sub,.mainhome_bot,.mainhome_span,.rowtd
+{
+	display:none;
+}
+.mainhome_tbl td
+{
+	width:0px;
+	padding: 1px;
+}
+.mainhome_tbl td img
+{
+	width:40px;
+	float:left;
+}
+html
+{
+	float:left;
+	width:100%;
+}
+.form-control
+{
+
+	font-size:12px;
+	
+}
+.mainText1
+{
+	width:auto !important;
+}
+.login-main
+{
+	background-image:none;
+	background-color:#F90;
+}
+.mainhome_tbl
+{
+	background:none;
+}
+}
